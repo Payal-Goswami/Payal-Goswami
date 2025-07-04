@@ -1,4 +1,4 @@
-### Hi, I'm Payal Goswami 👋
+### Hi, I'm Payal Goswami ✨
 
 ---
 
@@ -99,7 +99,7 @@ I also regularly practice **Data Structures & Algorithms** in C++ on platforms l
 </p>
 
 I'm always open to opportunities that challenge me and allow me to contribute meaningfully.  
-Let’s connect and create something impactful! 😄✌
+Let’s connect and create something impactful! 😁
 
 > ⭐ **Check out my repositories and don’t forget to give a star!**
 
