@@ -92,11 +92,11 @@ I also regularly practice **Data Structures & Algorithms** in C++ on platforms l
 </p>
 
 ---
-### 📈 GitHub Stats
+//### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Payal-Goswami&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+//<p align="center">
+ // <img src="https://github-readme-stats.vercel.app/api?username=Payal-Goswami&show_icons=true&theme=github_dark&hide_border=true" //alt="GitHub Stats" />
+//</p>
 
 I'm always open to opportunities that challenge me and allow me to contribute meaningfully.  
 Let’s connect and create something impactful! 😁
